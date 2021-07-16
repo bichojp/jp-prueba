@@ -47,9 +47,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>vmmh</id>
+			<id>githubjp</id>
 			<name>GitHub Bineo Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/vmmartinezh/prueba/</url>
+			<url>https://maven.pkg.github.com/bichojp/maven-artifacts/</url>
 			<uniqueVersion>true</uniqueVersion>
 		</repository>
 	</distributionManagement>
