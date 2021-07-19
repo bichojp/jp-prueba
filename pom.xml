@@ -50,7 +50,7 @@
 			<id>githubjp</id>
 			<name>GitHub Bineo Apache Maven Packages</name>
 			<url>https://maven.pkg.github.com/bichojp/maven-artifacts/</url>
-			<uniqueVersion>true</uniqueVersion>
+			<uniqueVersion>false</uniqueVersion>
 		</repository>
 	</distributionManagement>
 
