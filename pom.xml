@@ -49,7 +49,7 @@
 		<repository>
 			<id>githubjp</id>
 			<name>GitHub Bineo Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/bichojp/maven-artifacts/</url>
+			<url>https://maven.pkg.github.com/bichojp/prueba/</url>
 			<uniqueVersion>false</uniqueVersion>
 		</repository>
 	</distributionManagement>
