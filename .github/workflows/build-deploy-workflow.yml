@@ -54,7 +54,7 @@ jobs:
       with:
         repositories: '[{"id":"githubjp", "name":"GitHub wecoderg Apache Maven Packages", "url":"https://maven.pkg.github.com/bichojp/*", "releases":{"enabled":"true"}, "snapshots":{"enabled":"true"}}]'
         servers: '[{ "id": "githubjp", "username": "bichojp", "password": "${{ secrets.REPOSITORY_TOKEN }}" }]'
-        active_profiles: [ "githubjp" ]
+        active_profiles: '[ "githubjp" ]'
         
     - name: Download artifacts
       uses: actions/download-artifact@v2
